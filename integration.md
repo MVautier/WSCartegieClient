@@ -12,9 +12,9 @@ Contenu
 [Intégration de la bibliothèque JS Cartegie](#3.2)  
 [Eléments de configurations du service](#3.3)  
 [Webservice Siretage](#3.4) 
-[Configuration (Env. de recette)](#4.1)
-[Tags des champs de saisie pour les paramètres d’appel WS](#4.2)
-[Tags pour affichage du résultat du siretage multiple](#4.3)
+[Configuration (Env. de recette)](#4.1)  
+[Tags des champs de saisie pour les paramètres d’appel WS](#4.2)  
+[Tags pour affichage du résultat du siretage multiple](#4.3)  
 Tags pour remplir les champs (à partir des éléments présents le tableau de résultat) après sélection d’un élément du siretage multiple	6  
 Tags pour pour remplir les champs du formulaire (à partir d’un appel ws fiche entreprise) après sélection d’un élément du siretage multiple	6  
 Bouton de soumission pour appel WS Siretage	7  
